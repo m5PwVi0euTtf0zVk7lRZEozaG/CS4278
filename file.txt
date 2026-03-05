@@ -1,6 +1,7 @@
-Partner 1
+Partner 1 James
 email: james.d.wolverson@vanderbilt.edu
 contributions: set up repo
 
-Partner 2
-email:
+Partner 2 Jerry Wei
+email: jerry.wei@vanderbilt.edu
+contributions: change the text document
